@@ -41,14 +41,14 @@ p.charlie{
 p.bill{
   padding-bottom: 35px;
 }
-html, body
-{
-    height: 100vh;
+html, body {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
 }
-#Content
-{
-    height: 100vh;
-    width: 100%;
+#Content{
+    height: 100%;
 }
 @media (max-width:650px){
   iframe{
